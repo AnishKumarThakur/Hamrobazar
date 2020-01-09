@@ -8,6 +8,8 @@ import android.widget.ImageView;
 import androidx.annotation.NonNull;
 import androidx.viewpager.widget.PagerAdapter;
 
+import com.e.hamrobazar.R;
+
 public class ImageSliderAdapter extends PagerAdapter {
 
     private Context mContext;

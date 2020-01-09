@@ -8,6 +8,10 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.CheckBox;
 
+import com.e.hamrobazar.agreement.AdPostingRule;
+import com.e.hamrobazar.agreement.Safety;
+import com.e.hamrobazar.agreement.Terms;
+
 public class Agreement extends AppCompatActivity {
 
     CheckBox chkTerms, chkSafety, chkAd;

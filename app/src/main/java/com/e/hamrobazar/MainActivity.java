@@ -14,6 +14,12 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.Toolbar;
 
+import com.e.hamrobazar.adapters.CategoryAdapter;
+import com.e.hamrobazar.adapters.ImageSliderAdapter;
+import com.e.hamrobazar.adapters.ProductAdapter;
+import com.e.hamrobazar.model.Category;
+import com.e.hamrobazar.model.Products;
+
 import java.util.ArrayList;
 import java.util.List;
 

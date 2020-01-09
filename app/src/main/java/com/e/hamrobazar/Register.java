@@ -9,6 +9,8 @@ import android.widget.ArrayAdapter;
 import android.widget.Spinner;
 import android.widget.TextView;
 
+import com.e.hamrobazar.agreement.Terms;
+
 public class Register extends AppCompatActivity {
 
     private Spinner spinCity;
