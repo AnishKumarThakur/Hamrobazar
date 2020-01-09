@@ -47,3 +47,4 @@ public class ImageSliderAdapter extends PagerAdapter {
         container.removeView((ImageView) object);
     }
 }
+
